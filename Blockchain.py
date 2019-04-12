@@ -9,7 +9,7 @@ block_2 = {
 }
 block_3 = {
  'prev_hash': None,
- 'transactions': [3, 4, 4, 8, 34]
+ 'transactions': [3, 4, 4, 8, 34, 7]
 }
 def hash_blocks(blocks):
  prev_hash = None
